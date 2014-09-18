@@ -1,0 +1,171 @@
+/*
+
+
+
+Theme Name:     tmc-child-theme_wp-church
+
+
+
+Description:    Child theme for the tmc-child-theme_wp-church
+
+
+
+Author:         SMC
+
+
+
+Template:       wpchurch-2
+
+
+
+*/
+
+
+
+
+
+
+
+@import url("../wp-church/style.css");
+
+#footerbottom {
+background: #251C15;
+padding-top: 10px;
+border-top: 1px solid #352B26;
+height: 200px;
+overflow: hidden;
+}
+
+#foot-right {
+	float: right;
+	height: auto;
+	width: 120px;	
+}
+
+.teampostimg img {
+
+margin-top: 75px !important;
+
+max-width: 210px
+
+}
+
+
+
+#smc-size img {
+
+	
+
+	max-width: 230px
+
+
+
+	
+
+	}
+
+	
+
+body {
+
+	background-image: none;
+
+	background-color: #FFF;
+
+}
+
+
+
+
+
+	
+
+	.time .day												{color: #444; font-size: 25px;}
+
+
+
+	
+
+	
+
+	#access a {
+
+	outline: none;
+
+	display: block;
+
+	line-height: 29px;
+
+	padding: 0 0px 5px 70px;
+
+	text-decoration: none;
+
+	font-size: 14px;
+
+	font-weight: bold;
+
+	color: #938479;
+
+}
+
+
+
+
+
+
+
+p {
+
+	font-size: 13px;	
+
+	}
+
+
+
+
+
+#access li:hover > a,#access ul ul :hover > a,#access ul li.current_page_item > a,#access ul li.current-menu-ancestor > a,#access ul li.current-menu-item > a,#access ul li.current-menu-parent > a ,
+
+* html #access ul li.current_page_item a,* html #access ul li.current-menu-ancestor a,* html #access ul li.current-menu-item a,* html #access ul li.current-menu-parent a,
+
+* html #access ul li a:hover, a.more-link				{
+
+	color: #B1A79E;
+
+}
+
+
+
+#access ul ul 											{display: none;position: absolute;top: 34px;padding: 5px;left: 65px;
+
+														float: left;width: 180px;z-index: 99999;-webkit-border-radius: 3px;
+
+														-moz-border-radius: 3px;border-radius: 3px;background: #fff;-moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
+
+														-webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.5); box-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);}
+
+														
+
+#access ul ul li {
+
+width: 180px;
+
+line-height: 20px;
+
+border-bottom: none;
+
+border-top: 1px solid #EAEAEA;
+
+height: auto;
+
+padding: 5px 0;
+
+}
+
+
+
+.page-id-1891 p {
+
+  margin-left: 400px;
+
+}
