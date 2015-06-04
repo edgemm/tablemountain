@@ -48,9 +48,8 @@
 					<a href="<?php echo home_url( '/' ) ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home">
 						<?php bloginfo( 'name' ); ?> &copy; (<?php echo date('Y'); ?>)
 					</a>
-                    
-                    
-                    
+					<br /><br />
+					Site Design by <a href='http://edgemm.com' title='Portland Advertising Agency' target='_blank'>EDGE Multimedia</a>
 			  </div><!-- #site-info -->
               
               <div id="foot-right"><img src="/wp-content/themes/tmc-child-theme_wp-church/images/4-14-Church-Icon.gif" width="120" height="137" /></div>
